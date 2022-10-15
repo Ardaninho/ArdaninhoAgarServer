@@ -1,4 +1,4 @@
-# ArdaninhoAgar v1.0, a FOSS, open-source agario.fun server impletation.
+# ArdaninhoAgar v1.0, a FOSS agario.fun server impletation.
 ## Requriments
 - [NodeJS](https://nodejs.org/en/download/)
 ## How to start up your server
